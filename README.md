@@ -25,6 +25,8 @@ The code in this repository includes several examples of using t-SNE. Here's a b
 
 5. `util.py`: Contains utility functions used in the examples, including functions for activation, error calculation, and weight initialization.
 
+6. `kmeans_clusters.py`: The code demonstrates how K-means clustering can be applied to a 2D dataset and then visualizes the data both in the original feature space and in the t-SNE reduced space. 
+
 ## Usage
 To run the examples, ensure that you have the required dependencies installed. Each example is contained in a separate file, so you can run them individually by executing the corresponding Python script. For example: <br>
 `python example_1.py`
