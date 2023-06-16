@@ -42,6 +42,3 @@ The code in this repository relies on the following dependencies:
 
 You can install these dependencies using `pip`: <br>
 `pip install numpy matplotlib scipy scikit-learn`
-
-## License
-This repository is licensed under the [Apache License](LICENSE). Feel free to use the code for modification and non-commercial purposes.
